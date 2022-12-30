@@ -1,1 +1,1 @@
-# Jeu du MORPION native JavaScript
+# Jeu du MORPION JavaScript native
