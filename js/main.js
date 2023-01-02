@@ -228,7 +228,6 @@ const analyse = () => {
     arr = []
     let num = Math.trunc(damier.length / 3);
     const result = new Array(3).fill('').map((_, i) => damier.slice(i * num, (i + 1) * num)).map(val => {arr.push(val)}); 
-    console.log(arr[0][0]+arr[1][1]+arr[2][2]); 
     return arr
 }
 /**
